@@ -1,0 +1,14 @@
+{
+  "name": "patricia-imoveis",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd project && npm run dev",
+    "build": "cd project && npm run build",
+    "preview": "cd project && npm run preview"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "next": "^15.3.1"
+  }
+}
